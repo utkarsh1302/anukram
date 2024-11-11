@@ -1,0 +1,6 @@
+Theme Colors
+Background--#FAFAFA
+#A1BDCA
+#9E9BA2
+#9399A8
+#455F77

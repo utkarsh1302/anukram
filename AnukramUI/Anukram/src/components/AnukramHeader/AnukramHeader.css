@@ -1,0 +1,8 @@
+.AnukramHeader_toggleBtn:hover,
+.AnukramHeader_toggleBtn:focus,
+.AnukramHeader_toggleBtn:focus-visible {
+  outline: none;
+  border-color: transparent;
+  background: transparent;
+  border-radius: 40%;
+}

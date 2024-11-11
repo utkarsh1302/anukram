@@ -1,0 +1,6 @@
+.CreateProjectButton_createButton
+  > .ant-float-btn-body
+  > .ant-float-btn-content
+  > .ant-float-btn-icon {
+  width: 100%;
+}

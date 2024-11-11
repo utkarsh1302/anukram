@@ -1,0 +1,29 @@
+{
+	"openapi": "3.0.0",
+	"components": {
+		"examples": {},
+		"headers": {},
+		"parameters": {},
+		"requestBodies": {},
+		"responses": {},
+		"schemas": {},
+		"securitySchemes": {}
+	},
+	"info": {
+		"title": "anukram",
+		"version": "0.0.1",
+		"description": "Task Management System",
+		"license": {
+			"name": "MIT"
+		},
+		"contact": {
+			"name": "Utkarsh Gupta"
+		}
+	},
+	"paths": {},
+	"servers": [
+		{
+			"url": "/"
+		}
+	]
+}
